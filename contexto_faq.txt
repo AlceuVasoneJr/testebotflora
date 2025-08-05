@@ -1,0 +1,65 @@
+Flora Energia
+Sobre a Flora
+A Flora é uma plataforma que nasce para transformar a experiência do consumidor residencial de energia no Brasil.
+Esse consumidor carece de alternativas no contexto de um mercado regulado, com um regulatório das distribuidoras de energia, onde não existe foco e nem necessidade de se atentar a uma melhor experiência do cliente.
+Entre suas principais dores estão preços altos, cobranças confusas e não transparentes, dificuldades no atendimento quando precisam de suporte, nenhuma flexibilidade nas cobranças e pagamentos, além de não conseguirem escolher a fonte de energia que consomem.
+A alternativa que possuíam frente o fornecimento das distribuidoras concessionárias era instalar seu próprio sistema de geração de energia renovável. O que apesar de uma boa solução, ela não é muito acessível, uma vez que precisa de espaço físico (e quem mora em apartamento como faz?), demandar um investimento com retorno de longo prazo (não é para todos, e se você precisar se mudar, como retorna esse investimento?) e apesar de existirem linhas de financiamento atrativo, o brasileiro precisa tomar crédito para casa própria, estudar, inúmeras outras necessidades antes de gerar a própria energia. Fora a necessidade de manutenção do sistema. 
+A Flora nasce para resolver tudo isso. Apesar de uma empresa jovem e inovadora, já conta com investidores (como a Auren Energia) e parceiros de peso na distribuição da nossa solução (como grupo Porto, Caixa, entre outros).
+Operando como uma plataforma de distribuição de energia renovável, conectamos consumidores à geradores de energia limpa, entregando além da sustentabilidade, economia na conta de luz em uma experiência simples, transparente, flexível, acessível e previsível.
+Chamamos nossa solução de assinatura de energia renovável, pois assim como outras assinaturas, o cliente não precisa investir ou pagar nenhum valor antecipado, não tem prazo de fidelidade e consegue fazer tudo de forma digital.
+Os principais benefícios em ser cliente Flora!
+Economia na conta de luz
+Previsibilidade, uma vez que a Flora protege contra a incidência de bandeiras tarifárias, aumentando o desconto percebido nos meses em que incidem
+Energia renovável
+Sem necessidade de investimento ou pagamento antecipado
+Sem necessidade de qualquer instalação ou obra
+Adesão em um processo simples e 100% digital
+Atendimento ágil, flexível e humano
+Cobrança apenas mediante o sucesso da economia
+Sem fidelidade, pedimos apenas um aviso prévio de 90 dias, período no qual o consumidor continua economizando
+Sem riscos (a Flora não muda nada na infraestrutura de energia do cliente, apenas aloca os créditos de energia renovável na conta de luz que reduzem o valor dela)
+A primeira pergunta que recebemos é: “como isso é possível? Bom demais para ser verdade parece até pegadinha”. Mas não é. Isso é possível graças ao chamado Sistema de Compensação de Energia Elétrica:
+a energia gerada nas usinas renováveis é injetada na rede de distribuição
+esse fornecimento de energia para a rede é devolvido como créditos de energia
+os créditos são alocados na conta de luz dos clientes, reduzindo o valor dela
+a Flora cobra menos do que o valor reduzido da conta, garantindo assim a economia todos os meses
+A Flora conta com mais de 100 usinas de geração de energia limpa e renovável, sendo + de 90% de fonte fotovoltaica (solar), mas também temos biomassa e biogás!
+Essas usinas são de parceiros da Flora, e a Flora tem exclusividade na gestão e distribuição da energia que geram.
+Por ser uma solução nova, muitos também perguntam “Como a Flora ganha dinheiro”? Nós não cobramos nada dos consumidores, e quem nos paga são os geradores de energia, que nos contratam para realizar a gestão comercial de suas usinas.
+Principais perguntas e respostas sobre nossa solução
+Preciso pagar alguma coisa? Sim, você paga a Fatura Flora mediante o valor que a Flora reduz da sua conta de luz em um determinado mês. A Flora cobra sempre menos do que o valor reduzido, garantindo assim a economia
+Como eu pago a Flora? Você pode pagar por pix, boleto ou cartão de crédito. Também estamos implementando o pix automático, para ficar ainda mais fácil economizar e consumir energia limpa!
+Ainda preciso pagar a conta de luz da distribuidora?
+Sim, a conta de luz contém valores além do seu consumo de energia. Basicamente, ela é composta por:
+Consumo de Energia
+Impostos
+Custo de Disponibilidade (valor mínimo que deve ser pago por estar conectado à rede. Se o seu consumo for maior que o valor mínimo, você não paga. Se for menor, você paga a diferença até o valor mínimo)
+Custeio de Iluminação Pública (CIP – uma taxa municipal para financiar a iluminação pública)
+Os créditos de energia renovável da Flora, quando alocados em sua conta de luz, conseguem compensar os valores referentes ao seu consumo de energia e parte dos impostos
+Ou seja, mesmo com os créditos da Flora, existem alguns valores residuais que ainda devem ser pagos à Distribuidora através da conta de luz
+Quanto vou economizar?
+A Flora trabalha com um desconto de ao menos 10% no custo de energia com impostos. Ou seja, se o seu consumo de energia com impostos representa 90% do total da sua conta de luz, sua economia final será de 9% no valor total da conta. Se representa 50%, será de 5%, e assim por diante.
+Em meses de bandeira tarifária, esse desconto aumenta, uma vez que o custo com energia do país aumenta, os créditos da Flora compensam esse aumento, mas a Flora não repassa em cobrança adicional, entregando um desconto percebido ainda maior nesses meses (pode chegar a até 30% dependendo do nível da bandeira e região)
+Como posso validar minha economia?
+O racional da sua economia é que a Flora cobra sempre menos do que o valor que ela reduz da sua conta
+Ou seja, sua economia = valor que a Flora reduziu da sua conta menos o valor da Fatura Flora
+Você consegue ver o valor que a Flora reduzir da sua conta diretamente na conta de luz
+Na CPFL Paulista, CPFL Piratininga, Elektro, ENEL SP, ENEL RJ e Energisa Sul Sudeste (ESS), basta você somar os valorem em R$ negativos da sua conta referente a energia compensada pela Flora (pode estar descrito como energia injetada, energia ativa injet., energia GD, etc)
+Na Light e na CEMIG, basta você multiplicar o volume que a Flora te atendeu (que deixou de ser cobrado na conta de luz) pela tarifa com impostos. A tarifa com imposto é o valor em R$/kwh aplicado sob seu consumo. A energia que a Flora te atendeu é o valor em kwh que aparece nas linhas de GD
+Aqui estão alguns links com cartas e vídeos que mostram como validar sua economia na conta de cada distribuidora
+Essa tabela contém conteúdos que podem lhe ajudar a entender mais sobre a Flora e sua economia:
+Qual a emissão e vencimento das Faturas da Flora?
+As faturas da Flora seguem as mesmas datas da conta de luz
+Logo após a emissão da conta de luz, a Flora acessa essa conta para validar data de emissão e vencimento e usar essas mesmas informações na Fatura Flora
+Sua data de emissão, e consequentemente vencimento da conta de luz, podem sofrer alterações (serem postergadas) com a solução da Flora
+Isso ocorre uma vez que a emissão da sua conta de luz aguarda o faturamento da unidade geradora (UG ou usina) que sua conta de luz está alocada
+Normalmente esse faturamento acontece até o dia 15 do mês subsequente
+Ou seja, vamos usar como exemplo sua conta de fevereiro. Ela vai receber os créditos da geração de janeiro. Se a geração de janeiro é faturada até o dia 15 de fevereiro, e sua conta normalmente era emitida no dia 10, ela será emitida apenas no dia 15. Agora se sua conta já era emitida normalmente no dia 20, ela não vai sofrer alteração
+E se eu quiser cancelar?
+Não temos prazo contratual ou multa de cancelamento
+Pedimos apenas um aviso prévio de 90 dias, tempo necessário para parar de alocar créditos de energia renovável em sua conta de luz
+Durante esse período, a Flora continua cobrando apenas mediante o sucesso de reduzir sua conta de luz, garantindo assim sua economia
+Se seu pedido de cancelamento foi em 01/07/2025 por exemplo, sua última fatura Flora será emitida em até 90 dias disso, ou seja, até 01/10/2025
+Mas, se já não tiver mais créditos da Flora antes desse prazo, o processo encerrará mesmo que antes dos 90 dias
+E seu eu precisar me mudar ou trocar a titularidade da minha conta?
+Sem problemas, você deve apenas avisar a Flora antes de realizar isso para que possamos ajustar o envio dos créditos para sua conta de luz atualizada e você não deixar de economizar nenhum mês
