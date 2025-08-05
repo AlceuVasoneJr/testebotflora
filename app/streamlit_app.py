@@ -1,8 +1,10 @@
 import streamlit as st
 import openai
 import os
+import sys
+import os
+sys.path.append(os.path.abspath('..'))
 from app_core import responder_pergunta
-
 st.set_page_config(page_title="🌱 Atendimento - Flora Energia")
 
 st.title("🌱 Agente de Atendimento - Flora Energia")
